@@ -237,7 +237,7 @@ Based on the analysis, banking teams can use customer segmentation and financial
 
 ### Home Dashboard
 
-<img src="https://raw.githubusercontent.com/TanyaSuryavanshi/banking-eda-powerbi/main/images/Home.png" alt="Home Dashboard" width="800"/>
+<img src="https://raw.githubusercontent.com/TanyaSuryavanshi/banking-eda-powerbi/main/images/Home.png" alt="Home Dashboard" width="800">
 
 ### Loan Analysis
 
