@@ -231,10 +231,6 @@ Based on the analysis, banking teams can use customer segmentation and financial
 ---
 
 
----
-
----
-
 ## Dashboard Preview
 
 ### Home Dashboard
@@ -247,7 +243,8 @@ Based on the analysis, banking teams can use customer segmentation and financial
 
 
 ### Deposit Analysis
-![Uploading Deposit Analysis.PNG…]()
+<img width="626" height="347" alt="Deposit Analysis" src="https://github.com/user-attachments/assets/d41fa64b-9bc9-4212-91df-5788d15382d7" />
+
 
 
 
