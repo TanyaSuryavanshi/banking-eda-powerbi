@@ -244,11 +244,15 @@ Add your Power BI screenshots to the `images/` folder and display them here:
 
 ### Loan Analysis
 
-![Loan Analysis](images/Loan analysis.png)
+![Loan Analysis](images/Loan-analysis.png)
 
 ### Deposit Analysis
 
-![Deposit Analysis](images/Deposit Analysis.png)
+![Deposit Analysis](images/Deposit-analysis.png)
+
+### Summary Dashboard
+
+![Summary Dashboard](images/Summary.png)
 ```
 
 ---
