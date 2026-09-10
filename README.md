@@ -41,24 +41,24 @@ The project combines **Python-based Exploratory Data Analysis (EDA)** with a **P
 ## Project Structure
 
 ```text
-banking-data-analysis-powerbi/
+banking-eda-powerbi/
+│
+├── README.md
 │
 ├── Banking.csv
 │
-├── BankEDA.ipynb 
+├── BankEDA.ipynb
 │
-├── Banking_Dashboard.pbix
+├── Banking Dashboard.pbix
 │
-├── images/
-│   ├── Home.png
-│   ├── Loan analysis.png
-│   └── Deposit Analysis.png
-│   └── Summary.png
-│
-├── README.md
+└── images/
+    ├── Home.png
+    ├── Loan-analysis.png
+    ├── Deposit-analysis.png
+    └── Summary.png
 ```
 
----
+
 
 ## Exploratory Data Analysis
 
