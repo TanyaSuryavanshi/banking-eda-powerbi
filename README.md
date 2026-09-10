@@ -8,7 +8,6 @@ This project analyzes banking customer data to understand customer demographics,
 
 The project combines **Python-based Exploratory Data Analysis (EDA)** with a **Power BI dashboard** to transform raw banking data into meaningful business insights and KPIs.
 
-> **Note:** This is a learning/portfolio project developed using a guided tutorial and reference material, with additional analysis and business-focused insights added to strengthen the implementation.
 
 ---
 
