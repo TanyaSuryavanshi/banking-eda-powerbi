@@ -1,3 +1,4 @@
+<img width="620" height="344" alt="Home" src="https://github.com/user-attachments/assets/c6633539-1e71-4989-b9b6-c82b49d87cec" />
 # Banking Data Analysis & Power BI Dashboard
 
 ## Project Overview
@@ -236,8 +237,8 @@ Based on the analysis, banking teams can use customer segmentation and financial
 ## Dashboard Preview
 
 ### Home Dashboard
+<img width="620" height="344" alt="Home" src="https://github.com/user-attachments/assets/4ac06bd7-68b8-4c2a-9b21-4dc3c2df506f" />
 
-<img src="https://raw.githubusercontent.com/TanyaSuryavanshi/banking-eda-powerbi/main/images/Home.png" alt="Home Dashboard" width="800">
 
 ### Loan Analysis
 
