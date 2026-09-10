@@ -235,24 +235,18 @@ Based on the analysis, banking teams can use customer segmentation and financial
 
 ## Dashboard Preview
 
-Add your Power BI screenshots to the `images/` folder and display them here:
-
 ```markdown
 ### Home Dashboard
-
-![Home Dashboard](images/Home.png)
+<img src="images/Home.png" alt="Home Dashboard" width="800"/>
 
 ### Loan Analysis
-
-![Loan Analysis](images/Loan-analysis.png)
+<img src="images/Loan-analysis.png" alt="Loan Analysis" width="800"/>
 
 ### Deposit Analysis
-
-![Deposit Analysis](images/Deposit-analysis.png)
+<img src="images/Deposit-analysis.png" alt="Deposit Analysis" width="800"/>
 
 ### Summary Dashboard
-
-![Summary Dashboard](images/Summary.png)
+<img src="images/Summary.png" alt="Summary Dashboard" width="800"/>
 ```
 
 ---
