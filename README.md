@@ -235,19 +235,21 @@ Based on the analysis, banking teams can use customer segmentation and financial
 
 ## Dashboard Preview
 
-```markdown
 ### Home Dashboard
-<img src="./images/Home.png" alt="Home Dashboard" width="800">
+
+<img src="https://raw.githubusercontent.com/TanyaSuryavanshi/banking-eda-powerbi/main/images/Home.png" alt="Home Dashboard" width="800"/>
 
 ### Loan Analysis
-<img src="./images/Loan-analysis.png" alt="Loan Analysis" width="800">
+
+<img src="https://raw.githubusercontent.com/TanyaSuryavanshi/banking-eda-powerbi/main/images/Loan-analysis.png" alt="Loan Analysis" width="800"/>
 
 ### Deposit Analysis
-<img src="./images/Deposit-analysis.png" alt="Deposit Analysis" width="800">
+
+<img src="https://raw.githubusercontent.com/TanyaSuryavanshi/banking-eda-powerbi/main/images/Deposit-analysis.png" alt="Deposit Analysis" width="800"/>
 
 ### Summary Dashboard
-<img src="./images/Summary.png" alt="Summary Dashboard" width="800">
-```
+
+<img src="https://raw.githubusercontent.com/TanyaSuryavanshi/banking-eda-powerbi/main/images/Summary.png" alt="Summary Dashboard" width="800"/>
 
 ---
 
