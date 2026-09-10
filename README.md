@@ -10,7 +10,7 @@ The project combines **Python-based Exploratory Data Analysis (EDA)** with a **P
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze banking customer demographics and financial behavior
 * Understand customer income distribution
@@ -59,7 +59,7 @@ banking-data-analysis-powerbi/
 
 ---
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 The Python notebook covers the complete EDA workflow:
 
